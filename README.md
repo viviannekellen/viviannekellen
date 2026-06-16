@@ -12,7 +12,6 @@ Universidade Federal do Rio Grande do Norte (UFRN)
 I'm a dedicated developer with a love for clean code and solving complex problems. I enjoy collaborating with others and continuously learning new technologies and best practices.
 
 - 🔍 Always exploring new technologies and frameworks
-- 🤝 Community-focused and open to collaboration
 - 📚 Committed to continuous learning and growth
 
 ## 💻 Technical Skills
@@ -28,7 +27,7 @@ I'm a dedicated developer with a love for clean code and solving complex problem
 I'm always interested in collaborating on interesting projects or discussing tech. Feel free to reach out!
 
 - **Email**: viviannekellenpdasilva@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](link)
+- **LinkedIn**: [viviannekellenpdasilva](www.linkedin.com/in/vivianne-kellen-p-da-silva-252152225)
 - **Twitter/X**: [@yourhandle](link)
 - **Website**: [your-website.com](link)
 

@@ -11,7 +11,7 @@ I'm a dedicated developer with a love for clean code and solving complex problem
 
 ## 💻 Technical Skills
 
-- **Languages**: C, C++ avaScript, Java
+- **Languages**: C, C++, Java
 
 ## 📫 Let's Connect
 

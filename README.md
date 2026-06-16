@@ -2,6 +2,11 @@
 
 Welcome to my GitHub profile! I'm passionate about building innovative solutions and contributing to open-source projects.
 
+## 🎓 Education
+
+**Bacharelanda em Tecnologia da Informação (BTI)**  
+Universidade Federal do Rio Grande do Norte (UFRN)
+
 ## 🚀 About Me
 
 I'm a dedicated developer with a love for clean code and solving complex problems. I enjoy collaborating with others and continuously learning new technologies and best practices.

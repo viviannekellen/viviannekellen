@@ -1,4 +1,4 @@
-# Hi there, I'm @viviannekellen 👋
+# Hi there, I'm Vivianne Kellen
 
 Welcome to my GitHub profile! I'm passionate about building innovative solutions.
 

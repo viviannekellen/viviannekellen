@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ## 🚀 About Me
 
-I'm a dedicated developer with a love for clean code and solving complex problems. I enjoy collaborating with others and continuously learning new technologies and best practices.
+I enjoy collaborating with others and continuously learning new technologies and best practices.
 
 - 🔍 Always exploring new technologies and frameworks
 - 📚 Committed to continuous learning and growth
